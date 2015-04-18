@@ -7,7 +7,7 @@ public class BallController : MonoBehaviour {
 
 	public GameObject GameOverDisplay;
 
-	public float Thrust;
+	public float Thrust;  // The higher the thrust, the faster the ball.
 
 	public Vector2 MaxForce;
 
